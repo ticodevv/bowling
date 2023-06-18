@@ -1,0 +1,14 @@
+En premier lieux noux avons utiliser "READLINE" pour pouvoir interagire avec le "CLI"
+
+nous avons grande classe "PLAYER" ET "FRAME"
+
+La classe "PLAYER" va representer le joueur / chaque joueur on une FRAME
+
+La classe "FRAME" va representer les "FRAME" dans le jeux bowling a chaque "FRAME" on peux avoir 1 ou 2 lancer suivant le nombre de quille tomber
+
+le fonction "STARBOWLINGGAME" va servire a démaré le jeux elle utilise "READLINE" pour demander le nombre de joueur et la classe "PLAYGAME" pour commencer le jeux
+
+La fonction "PLAYGAME" sert au deroulment du jeux elle utilise "READLINE" pour demander le nombre de quille tomber
+
+puis nous avons "CALCUlATESCORE" de la classe "PLAYER" qui affiche le scores il dit qui est le gagnants 
+
